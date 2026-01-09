@@ -1,0 +1,5 @@
+{
+  "name": "Retention Fund Allocator",
+  "description": "A financial tool for institutions to calculate loan repayment allocations, prioritizing interest components over principal for partial reimbursements.",
+  "requestFramePermissions": []
+}
